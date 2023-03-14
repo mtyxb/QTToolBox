@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/butianyun_logo.png</file>
+    </qresource>
+</RCC>
